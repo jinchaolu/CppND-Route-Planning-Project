@@ -103,3 +103,12 @@ The testing executable is also placed in the `build` directory. From within `bui
 * If you are facing errors with --config try to remove -- from the command.
 
 
+## Project Rubric
+### 1. Compiling and Testing
+#### 1.1 The submission must compile.
+#### 1.2 The submission must pass the final set of unit tests.
+### 2. User Input
+#### 2.1 The user should be able to provide inputs to the search.
+#### 2.2 The user inputs should correspond with areas on the map.
+### 3. Code Efficiency
+#### 3.1 The methods in the code should avoid unnecessary calculations.
