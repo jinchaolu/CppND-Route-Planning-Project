@@ -102,7 +102,6 @@ The testing executable is also placed in the `build` directory. From within `bui
 
 * If you are facing errors with --config try to remove -- from the command.
 
-
 ## Project Rubric
 ### 1. Compiling and Testing
 #### 1.1 The submission must compile.
