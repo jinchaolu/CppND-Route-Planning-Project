@@ -105,9 +105,22 @@ The testing executable is also placed in the `build` directory. From within `bui
 ## Project Rubric
 ### 1. Compiling and Testing
 #### 1.1 The submission must compile.
+Yes, it does.
 #### 1.2 The submission must pass the final set of unit tests.
+Yes, it does.
 ### 2. User Input
 #### 2.1 The user should be able to provide inputs to the search.
+Yes, it does.
 #### 2.2 The user inputs should correspond with areas on the map.
+Yes, it does.
 ### 3. Code Efficiency
 #### 3.1 The methods in the code should avoid unnecessary calculations.
+Yes, it does.
+
+## Photos
+### 1. From (10, 20) to (40, 50)
+[From_10_20_to_40_50.png](photos/From_10_20_to_40_50.png)
+### 2. From (10, 90) to (90, 10)
+[From_10_90_to_90_10.png](photos/From_10_90_to_90_10.png)
+### 3. From (40, 30) to (30, 10)
+[From_40_30_to_30_10.png](photos/From_40_30_to_30_10.png)
