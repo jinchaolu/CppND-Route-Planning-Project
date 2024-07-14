@@ -119,8 +119,8 @@ Yes, it does.
 
 ## Photos
 ### 1. From (10, 20) to (40, 50)
-[From_10_20_to_40_50.png](photos/From_10_20_to_40_50.png)
+![From_10_20_to_40_50.png](photos/From_10_20_to_40_50.png)
 ### 2. From (10, 90) to (90, 10)
-[From_10_90_to_90_10.png](photos/From_10_90_to_90_10.png)
+![From_10_90_to_90_10.png](photos/From_10_90_to_90_10.png)
 ### 3. From (40, 30) to (30, 10)
-[From_40_30_to_30_10.png](photos/From_40_30_to_30_10.png)
+![From_40_30_to_30_10.png](photos/From_40_30_to_30_10.png)
